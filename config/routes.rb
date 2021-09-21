@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+ root to: "home#index"
   get 'student_life/arts'
   get 'student_life/sports'
   get 'student_life/culturals'
