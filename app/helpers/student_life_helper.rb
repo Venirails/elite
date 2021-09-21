@@ -1,0 +1,2 @@
+module StudentLifeHelper
+end
